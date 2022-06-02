@@ -1,0 +1,55 @@
+
+
+.dashboard-middle-section{
+    .dashboard-counter-button{
+        top: 70px;
+        position: relative;
+        button{
+            padding: 0px 1rem;
+            color: #000000;
+            font-weight: 300;
+            border: 1px solid #000000;
+            min-height: 2.7rem;
+            min-width: auto;
+            border-radius: 10px;
+        }
+        span{
+            display: contents;
+            svg{
+                fill: #000000;
+            }
+        }
+    }
+}
+.dashboard-footer{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    /* vertical-align: middle; */
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.cmNAmb{
+    padding-top: 0px;
+}
+.react-tabs{
+
+    .jmfmfJ{
+        margin-top: -21px;
+        position: relative;
+        z-index: -9;
+    }
+}
+.hRbjD{
+    padding-bottom: 0px;
+    color: #9fa0a1;
+    h4{
+        font-weight: 600;
+    }
+}
+.cmNAmb .react-tabs__tab:active h4, .cmNAmb .react-tabs__tab.react-tabs__tab--selected h4{
+    text-shadow: none;
+    color: #000000;
+}
