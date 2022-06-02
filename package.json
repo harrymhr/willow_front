@@ -16,20 +16,12 @@
     "prod": "npm run production",
     "build": "webpack --config webpack.client.config.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sumit-2t/willow_snow.git"
-  },
   "keywords": [
     "React",
     "Redux"
   ],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sumit-2t/willow_snow/issues"
-  },
-  "homepage": "https://github.com/sumit-2t/willow_snow#readme",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
